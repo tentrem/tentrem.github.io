@@ -4,7 +4,6 @@ author: tentrem
   name: Fajar Taufiq 
   email: fajar_taufiq@outlook.com
 description: "Great site about Jekyll on GH-Pages."
-
 # site setting
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
