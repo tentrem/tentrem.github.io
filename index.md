@@ -40,8 +40,6 @@ environment.
 ### Project Engineer
 _at SatNetCom_ - _Site PT. Petrosea at Lowland PT. Freeport Indonesia, Timika Papua_ -
 _April 2018 to November 2019_
-When the system detects abnormal eye closure and in-cab warning alarm is sounded to alert the driver.
-The system can also notify the control room in real-time. When the driver receives the siren alarm, the driver should stop immediately and have a rest.
 * Install, Maintenance, Troubleshooting MineSafeDrive Equipment and Network transmit.
 (GPS Gate Server, Geo Server, Global Mapper), Raveon Data Radio (RV-M7-GX), PTP Infinet (Infilink 2x2 R5000), Cisco Catalyst (WS-C2960-8TC)
 * Support Petrosea to collect data tracking units, to Engineering division
@@ -59,6 +57,10 @@ The system can also notify the control room in real-time. When the driver receiv
 * Sumo Logic Fundamental
 * Sumo Logic Administrator
 * CCNA Exploration:Network Fundamentals
+
+| Skill & Product Proficiencis | Licenses & Certifications    |
+|:-----------------------------|:-----------------------------|
+|SIEM Administrator            |Splunk Core Certified User    | 
 
 
 
