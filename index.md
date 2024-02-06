@@ -48,19 +48,20 @@ _April 2018 to November 2019_
 * Work on 24x7 shift rotation
 * Team Work
 
-## Licenses & Certifications
+| Skill & Product Proficiencis | Licenses & Certifications       |
+|:-----------------------------|:--------------------------------|
+|Splunk SIEM                   |Splunk Core Certified User       | 
+|Arcsight SIEM                 |Splunk Core Certified Power User |
+|Elastic SIEM                  |Qualys Vulnerability Management  |
+|Sumo Logic                    |Qualys Web Application Scanning  |
+|Qualys Vulnerability Managemen|Sumo Logic Fundamental           |
+|Recorded Future Threat Intelligence Platform|Sumo Logic Administrator|
+|SIEM Administrator|CCNA Exploration :Network Fundamentals       |
+|System Integrator             |                                 |
+|Basic Linux administrator     |                                 |
+
+## Educational Background
 ***
-* Splunk Core Certified User
-* Splunk Core Certified Power User
-* Qualys Vulnerability Management
-* Qualys Web Application Scanning
-* Sumo Logic Fundamental
-* Sumo Logic Administrator
-* CCNA Exploration:Network Fundamentals
-
-| Skill & Product Proficiencis | Licenses & Certifications    |
-|:-----------------------------|:-----------------------------|
-|SIEM Administrator            |Splunk Core Certified User    | 
-
-
+### Muhammadiyah Malang University
+Bachelor's Degree in Informatic Engineering Majoring on Networking | _2012_ - _2017_
 
