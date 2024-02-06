@@ -10,6 +10,11 @@ Management, Threat Intelligent Platform, and Endpoint Protection. Passionate abo
 Linux System administration. Self-motivated and fast learner, interested in learning new skills. Have a
 good attitude, able to work as an individual or team player, and have a good sense of humor.
 
+## Educational Background
+***
+### Muhammadiyah Malang University
+Bachelor's Degree in Informatic Engineering Majoring on Networking | _2012_ - _2017_
+
 ## Work Experience
 ***
 
@@ -47,7 +52,7 @@ _April 2018 to November 2019_
 * Support Daily Report, Weekly Report to the engineering division
 * Work on 24x7 shift rotation
 * Team Work
-
+***
 | Skill & Product Proficiencis | Licenses & Certifications       |
 |:-----------------------------|:--------------------------------|
 |Splunk SIEM                   |Splunk Core Certified User       | 
@@ -60,8 +65,4 @@ _April 2018 to November 2019_
 |System Integrator             |                                 |
 |Basic Linux administrator     |                                 |
 
-## Educational Background
-***
-### Muhammadiyah Malang University
-Bachelor's Degree in Informatic Engineering Majoring on Networking | _2012_ - _2017_
 
